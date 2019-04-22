@@ -74,13 +74,13 @@ h1, h2, h3, h4, h5, .lead {font-family: 'Droid Sans', sans-serif}
 }
 #servicesec img{
     width: 375px;
-    height: 150;  
+    height: 150;
     margin-top: 25px;
 }
 #servicesec h2{
     padding-bottom: 5px;
     border-bottom: 3px solid black;
-    font-family: RobotoCondensed,"Arial Narrow",Verdana;  
+    font-family: RobotoCondensed,"Arial Narrow",Verdana;
 }
 #products h2{
     padding-bottom: 5px;
@@ -88,15 +88,15 @@ h1, h2, h3, h4, h5, .lead {font-family: 'Droid Sans', sans-serif}
     font-family: RobotoCondensed,"Arial Narrow",Verdana;
     margin-top: 50px;
 }
-#servicesec h3, 
+#servicesec h3,
 #products h3{
     margin-bottom: 25px;
 }
-.services>div, 
+.services>div,
 .producs>div{
     border-bottom: 1px solid black;
 }
-.services p, 
+.services p,
 .producs p{
     color:#777;
 }
@@ -223,14 +223,14 @@ background-image: url('../img/subpic-cityguard.png');
     background-size: cover;
     box-shadow: 0px 0px 4px 0px #888;
     margin-bottom: 50px;height:350px;position:relative}
-#hero .overlay, 
-#hero-contact .overlay, 
-#hero-about .overlay, 
-#hero-career .overlay, 
+#hero .overlay,
+#hero-contact .overlay,
+#hero-about .overlay,
+#hero-career .overlay,
 #hero-services .overlay{background:rgba(2,32,55,0.0)}
-#hero p, #hero-contact p, 
-#hero-about p, 
-#hero-career p, 
+#hero p, #hero-contact p,
+#hero-about p,
+#hero-career p,
 #hero-services p{display:inline-block;margin-top:0;color:white;font-size:2.1em;max-width:600px;font-weight:bold;text-shadow:0 0 4px #222;letter-spacing:2px;padding:10px 0;font-family: Roboto,"Arial Narrow",Verdana;opacity: 1;}
 
 .overlay{position:absolute;width:100%;height:100%;left:0;top:0}
@@ -275,7 +275,7 @@ ul.list li{margin-left:25px}
 
 
 /* start career page */
-#hero-career{background-color:#022037;background-image:url(../img/hero2.jpg);background-position:100% 45%;background-size:cover;box-shadow: 0px 0px 4px 0px #888;
+#hero-career{background-color:#022037;background-image:url(../img/faq.jpg);background-position:100% 45%;background-size:cover;box-shadow: 0px 0px 4px 0px #888;
     margin-bottom: 50px;height:350px;position:relative}
 #join .overlay{position:relative;background-color:rgba(0,0,0,0.6);padding:80px}
 #join p{margin-top:0;max-width:600px;margin:0 auto;font-weight:bold;font-size:1.4em}
