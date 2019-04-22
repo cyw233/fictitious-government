@@ -1,0 +1,79 @@
+/* Smart Phones And Tablets */
+
+@media (max-width: 767px)
+{
+    
+    .navbar-inverse .navbar-nav > li > a
+    {
+        padding-top:10px;
+        padding-bottom:10px
+    }
+    
+    .subscribe .form-control
+    {
+        margin:20px auto;
+        width:400px
+    }
+    
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height:none
+    }
+    
+    .navbar-inverse 
+    .navbar-nav 
+    .open 
+    .dropdown-menu 
+    .divider,
+    .dropdown-menu > li > a:focus,
+    .dropdown-menu > li > a:hover{background-color: #2B8E57;}
+    
+    #properties div 
+    {padding-bottom: 35px;word-wrap: break-word;}
+    
+    .service img
+    {float:none;width:100%;margin-left:0;margin-bottom:20px}
+    
+    #hero p, 
+    #hero-contact p, 
+    #hero-about p, 
+    #hero-career p, 
+    #hero-services p
+    {font-size:2em;width:96%;letter-spacing:1px}
+}
+
+
+@media screen and (max-width:600px){
+    .wrapper{width:84%}
+    .techPartner h3{word-wrap: break-word;}
+    #pt-brief{padding-top: 55px}
+    .inset-width{padding: 0 20px}
+}
+/* Small Screen */
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+
+}
+
+/* Medium Screen */
+
+@media (min-width:992px) and (max-width: 1199px)
+{
+   
+}
+@media screen and (max-width:1200px){.techPartner{padding-bottom: 25px}}
+
+@media screen and (min-width:600px) and (max-width:1200px){.wrapper{width:96%}}
+
+
+/* Large Screen */
+@media screen and (min-width:1600px){#hero, #hero-contact, #hero-about, #hero-career, #hero-services{height:400px}}
+
+@media screen and (min-width:1200px){.wrapper{width:1180px}}
+
+@media (min-width:1200px)
+{
+    
+}
